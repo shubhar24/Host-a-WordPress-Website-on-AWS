@@ -1,6 +1,6 @@
 # WordPress Hosting on AWS - DevOps Project
 ## Overview
-
+![Alt text](/2._Host_a_WordPress_Website_on_AWS.png)
 This project demonstrates how to host a **WordPress website on AWS**, utilizing various AWS services and best practices to ensure high availability, scalability, and security. The solution was built using services such as **EC2**, **RDS**, **EFS**, **ALB**, **Auto Scaling**, **Route 53**, and **SNS**. The deployment ensures fault tolerance and resilience by leveraging multiple availability zones.
 
 ### Key Components:
@@ -170,5 +170,5 @@ sudo service httpd restart
 ## Conclusion
 
 This project provides a highly available and scalable WordPress deployment on AWS, incorporating best practices for security, scalability, and fault tolerance. By utilizing services like EC2, RDS, EFS, and Auto Scaling, the solution ensures that the website remains available and responsive even during traffic spikes.
-![Alt text](/2._Host_a_WordPress_Website_on_AWS.png)
+
 For more details, please refer to the [GitHub Repository](https://github.com/your-repository-link).
